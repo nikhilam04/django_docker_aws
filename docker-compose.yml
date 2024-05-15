@@ -19,5 +19,5 @@ services:
     depends_on:
       - web
 
-volumes:
-  static
+# volumes:
+#   static_volume:
